@@ -192,8 +192,8 @@ When you run the program, a window will appear to enter the password to be able 
 
  <br>
  
-* Signature information
-* 
+#### Signature information
+
 ![97](https://user-images.githubusercontent.com/70335592/130411418-8eb201ce-46f6-42ec-adcd-247640e75b72.png)
 
 
