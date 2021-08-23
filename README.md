@@ -179,7 +179,7 @@ When you run the program, a window will appear to enter the password to be able 
   ```
   <br>
   
-### Then the program will Sign and create a new file
+### Then the program will Digital Sign and create a new file
 
 
 <br>
