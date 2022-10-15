@@ -147,7 +147,8 @@ Note: The default slot number when left unspecified is 0. SafeNet eToken 5100 wi
 When you run the program, a window will appear to enter the password to be able to connect to the USB Token and get the Certificates
 <br>
 
-![PKI23](https://user-images.githubusercontent.com/70335592/126527885-e50af583-0970-4032-ae43-776b42326524.png)
+![126527885-e50af583-0970-4032-ae43-776b42326524](https://user-images.githubusercontent.com/70335592/195996276-2613095e-a801-425d-8dcd-ada3cafd8983.png)
+
 
 <br>
 
